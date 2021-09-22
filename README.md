@@ -20,4 +20,4 @@ hw4.unsupervised_umap()
 
 ## Running time and hardware requirement
 
-The running time is 114 seconds in Titan'x 12 GB gpu and Intel Iris 16 GB cpu. 
+The running time is 3 minutes in Titan'x 12 GB gpu and Intel Iris 16 GB cpu. 
