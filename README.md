@@ -8,7 +8,7 @@ This package is a homework about unsupervised clustering of scRNA-seq data. The 
 
 # install
 
-In your command line, type "pip install BMI500caonia"
+In your command line, type "pip install https://github.com/warming151/Huang-bmi-hw4/raw/main/dist/Huanghw4-1.0.0-py3-none-any.whl"
 
 ## How to use
 
