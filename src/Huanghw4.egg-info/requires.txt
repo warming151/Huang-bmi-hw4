@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+scipy
+scanpy
+seaborn
+h5py
+
+[dev]
+check-manifest
